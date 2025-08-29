@@ -34,7 +34,6 @@ An end-to-end clone of **[cybership.io](https://cybership.io)** built from scrat
 - **Database:** MongoDB
 - **Deployment:** Vercel, Railway, Cloudflare Workers
 - **Authentication:** Clerk
-- **Other Tools:** Docker, Redis, GitHub Actions
 
 ---
 
