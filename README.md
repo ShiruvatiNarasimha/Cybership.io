@@ -23,7 +23,6 @@ An end-to-end clone of **[cybership.io](https://cybership.io)** built from scrat
 - 📊 Advanced analytics and reporting
 - 🌐 Scalable architecture
 - 🔐 Authentication and authorization
-- ☁️ Deployed on Cloudflare Workers for high performance
 
 ---
 
