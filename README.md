@@ -4,7 +4,6 @@ An end-to-end clone of **[cybership.io](https://cybership.io)** built from scrat
 
 ---
 
-## 🌟 Live Demo
 
 🔗 **[Live Demo Here](<https://github.com/ShiruvatiNarasimha/Cybership.io/blob/30774255e66cdc465ae88af81b3ff4b72d29afaa/public/Untitled%20video%20-%20Made%20with%20Clipchamp%20(7).mp4>)**
 
