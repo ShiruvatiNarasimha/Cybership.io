@@ -6,7 +6,6 @@ An end-to-end clone of **[cybership.io](https://cybership.io)** built from scrat
 
 
 
-🎥 **Demo Video:** ![Demo Video](https://your-video-link.com)
 
 🖼️ **Screenshot:**
 ![Alt text](https://github.com/ShiruvatiNarasimha/Cybership.io/blob/30774255e66cdc465ae88af81b3ff4b72d29afaa/public/Screenshot%202025-02-21%20212135.png)
