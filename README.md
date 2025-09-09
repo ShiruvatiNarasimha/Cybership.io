@@ -18,7 +18,6 @@ An end-to-end clone of **[cybership.io](https://cybership.io)** built from scrat
 - 🏷️ Inventory tracking and optimization
 - 📊 Advanced analytics and reporting
 - 🌐 Scalable architecture
-- 🔐 Authentication and authorization
 
 ---
 
