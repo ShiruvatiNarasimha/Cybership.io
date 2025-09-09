@@ -16,7 +16,6 @@ An end-to-end clone of **[cybership.io](https://cybership.io)** built from scrat
 
 - 🚚 Real-time order management dashboard
 - 🏷️ Inventory tracking and optimization
-- 📦 Automated fulfillment processes
 - 📊 Advanced analytics and reporting
 - 🌐 Scalable architecture
 - 🔐 Authentication and authorization
