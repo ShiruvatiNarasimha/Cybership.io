@@ -102,18 +102,7 @@ Contributions are welcome! To contribute:
 
 - 💼 **LinkedIn:** [Shiruvati Narasimha](https://www.linkedin.com/in/shiruvati-narasimha-669702296)
 - 💻 **GitHub:** [ShiruvatiNarasimha](https://github.com/ShiruvatiNarasimha)
-- ✉️ **Email:** shiruvati05@gmail.com
+- ✉️ **Email:** shiruvati07@gmail.com
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-⭐ **Star** this repo if you like it! ❤️
-
----
 
 > ⚡ _“Building scalable solutions, one project at a time.”_
